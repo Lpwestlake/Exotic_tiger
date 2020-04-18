@@ -21,7 +21,7 @@ var loadTableRows = (whichData) => { // Parameter "whichData" is the data to loo
 }
 
 var tableData = [];
-d3.csv("/static/data/final_Chicago_data_total_crime_by_date_and_type.csv").then(function(crimeData, err) {
+d3.csv("/static/data/final_Chicago_data_total_crime_by_date_and_type.csv", function(crimeData, err) {
 	if (err) throw err;
   
 	// parse data
