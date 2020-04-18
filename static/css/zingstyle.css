@@ -1,0 +1,30 @@
+.zc-body { background:#fff; }
+
+.chart--container {
+  height: 100%;
+  width: 100%;
+  min-height: 530px;
+}
+
+.zc-ref {
+  display: none;
+}
+
+.container {
+  margin-top: 70px;
+}
+
+.display-4{
+  color: white;
+  font-family: fantasy;
+  background:#0081a8;
+  padding: -1px;
+  border-radius: 20px;
+}
+
+p {
+  color: aliceblue;
+  background:#0081a8;
+  padding: -1px;
+  border-radius: 20px;
+}
