@@ -7,5 +7,5 @@ Our group was motivated by the Covid-19 pandemic and the effect it has had and w
 ## Data gathering
 During our initial investigation of the data we hoped to find several different cities information and compare and contrast our results. Unfortunately chicago is the only major city in the U.S. that records in their publicly available dataset domestic vs non domestic crimes. So we gathered as much recent data as we could and got to investigating. 
 
-Find the finished result here:
+Find the finished result here: https://lpwestlake.github.io/Exotic_tiger/
  
