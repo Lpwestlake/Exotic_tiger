@@ -40,7 +40,7 @@ d3.csv("static/data/grouped_month_day.csv", function (data) {
       fontColor: '#333'
     },
     title: {
-      text: 'Comparison between Domestic and Non-domestic crimes',
+      text: 'Comparison between Domestic Crimes 2018 - 2020',
       align: 'center',
       padding: '5px'
     },

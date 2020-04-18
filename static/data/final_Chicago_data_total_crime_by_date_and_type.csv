@@ -2029,13 +2029,31 @@ date,month_day,primary_type,crimes_committed
 2018-04-08,04-08,Sex Offense,2
 2018-04-08,04-08,Theft,151
 2018-04-08,04-08,Weapons Violation,9
-2018-04-09,04-09,Criminal Damage,2
-2018-04-09,04-09,Criminal Trespass,1
-2018-04-09,04-09,Deceptive Practice,3
-2018-04-09,04-09,Motor Vehicle Theft,1
-2018-04-09,04-09,Offense Involving Children,1
-2018-04-09,04-09,Other Offense,1
-2018-04-09,04-09,Theft,3
+2018-04-09,04-09,Arson,1
+2018-04-09,04-09,Assault,55
+2018-04-09,04-09,Battery,106
+2018-04-09,04-09,Burglary,25
+2018-04-09,04-09,Concealed Carry License Violation,1
+2018-04-09,04-09,Criminal Damage,77
+2018-04-09,04-09,Criminal Trespass,21
+2018-04-09,04-09,Deceptive Practice,59
+2018-04-09,04-09,Interference With Public Officer,4
+2018-04-09,04-09,Intimidation,1
+2018-04-09,04-09,Motor Vehicle Theft,25
+2018-04-09,04-09,Narcotics,38
+2018-04-09,04-09,Offense Involving Children,3
+2018-04-09,04-09,Other Offense,48
+2018-04-09,04-09,Public Peace Violation,6
+2018-04-09,04-09,Robbery,18
+2018-04-09,04-09,Sex Offense,1
+2018-04-09,04-09,Stalking,1
+2018-04-09,04-09,Theft,162
+2018-04-09,04-09,Weapons Violation,9
+2018-04-10,04-10,Deceptive Practice,1
+2018-04-10,04-10,Motor Vehicle Theft,1
+2018-04-10,04-10,Narcotics,1
+2018-04-10,04-10,Other Offense,1
+2018-04-10,04-10,Theft,2
 2019-01-01,01-01,Assault,63
 2019-01-01,01-01,Battery,213
 2019-01-01,01-01,Burglary,29
@@ -4105,10 +4123,32 @@ date,month_day,primary_type,crimes_committed
 2019-04-08,04-08,Sex Offense,1
 2019-04-08,04-08,Theft,156
 2019-04-08,04-08,Weapons Violation,20
-2019-04-09,04-09,Criminal Damage,3
-2019-04-09,04-09,Deceptive Practice,2
-2019-04-09,04-09,Other Offense,1
-2019-04-09,04-09,Robbery,1
+2019-04-09,04-09,Arson,1
+2019-04-09,04-09,Assault,65
+2019-04-09,04-09,Battery,140
+2019-04-09,04-09,Burglary,23
+2019-04-09,04-09,Crim Sexual Assault,5
+2019-04-09,04-09,Criminal Damage,75
+2019-04-09,04-09,Criminal Trespass,20
+2019-04-09,04-09,Deceptive Practice,49
+2019-04-09,04-09,Homicide,1
+2019-04-09,04-09,Interference With Public Officer,7
+2019-04-09,04-09,Kidnapping,1
+2019-04-09,04-09,Motor Vehicle Theft,19
+2019-04-09,04-09,Narcotics,50
+2019-04-09,04-09,Offense Involving Children,8
+2019-04-09,04-09,Other Offense,36
+2019-04-09,04-09,Prostitution,8
+2019-04-09,04-09,Public Peace Violation,5
+2019-04-09,04-09,Robbery,17
+2019-04-09,04-09,Sex Offense,3
+2019-04-09,04-09,Theft,146
+2019-04-09,04-09,Weapons Violation,13
+2019-04-10,04-10,Deceptive Practice,1
+2019-04-10,04-10,Motor Vehicle Theft,1
+2019-04-10,04-10,Offense Involving Children,2
+2019-04-10,04-10,Other Offense,2
+2019-04-10,04-10,Robbery,1
 2020-01-01,01-01,Assault,56
 2020-01-01,01-01,Battery,232
 2020-01-01,01-01,Burglary,21
@@ -6124,8 +6164,23 @@ date,month_day,primary_type,crimes_committed
 2020-04-08,04-08,Sex Offense,2
 2020-04-08,04-08,Theft,50
 2020-04-08,04-08,Weapons Violation,18
-2020-04-09,04-09,Assault,1
-2020-04-09,04-09,Battery,1
-2020-04-09,04-09,Criminal Damage,1
-2020-04-09,04-09,Deceptive Practice,2
-2020-04-09,04-09,Theft,1
+2020-04-09,04-09,Assault,35
+2020-04-09,04-09,Battery,99
+2020-04-09,04-09,Burglary,18
+2020-04-09,04-09,Criminal Damage,50
+2020-04-09,04-09,Criminal Sexual Assault,1
+2020-04-09,04-09,Criminal Trespass,6
+2020-04-09,04-09,Deceptive Practice,13
+2020-04-09,04-09,Homicide,2
+2020-04-09,04-09,Interference With Public Officer,1
+2020-04-09,04-09,Intimidation,1
+2020-04-09,04-09,Motor Vehicle Theft,12
+2020-04-09,04-09,Narcotics,4
+2020-04-09,04-09,Offense Involving Children,3
+2020-04-09,04-09,Other Offense,31
+2020-04-09,04-09,Public Peace Violation,1
+2020-04-09,04-09,Robbery,19
+2020-04-09,04-09,Sex Offense,1
+2020-04-09,04-09,Stalking,1
+2020-04-09,04-09,Theft,83
+2020-04-09,04-09,Weapons Violation,15

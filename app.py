@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 #setting route to chicago database
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = 'False'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///chicago_data.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///chicago_data.sqlite'
 db = SQLAlchemy(app)
 
 #reflects the current database into the primary index.html

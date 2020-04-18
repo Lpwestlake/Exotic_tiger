@@ -93,7 +93,7 @@ def getData():
     ############################################################
 
     #creates sql lite file called chicago_data and adds a cursor so we can create queries
-    db = sqlite3.connect('chicago_data.db')
+    db = sqlite3.connect('chicago_data.sqlite')
     #inserts only new values from api call into sqlite file
     final_df.to_sql('chicago_data', db, if_exists = 'replace')
     aggs_overall.to_sql('aggs_overall', db, if_exists = 'replace')
