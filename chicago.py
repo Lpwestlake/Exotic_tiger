@@ -73,6 +73,7 @@ def getData():
 
     aggs_overall = final_df.groupby(["date", "month_day"]).agg({'day': [np.count_nonzero]}).reset_index() 
     aggs_overall.columns = ["date", "month_day", "crimes_committed"]
+    aggs_overall.to_csv("static/data/crime_by_date.csv")
 
     dfCSV = aggs_overall.set_index('date')
 
