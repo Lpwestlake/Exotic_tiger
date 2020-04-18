@@ -5,8 +5,9 @@ import numpy as np
 from sodapy import Socrata
 import csv
 import sqlite3
+from api_keys import MyAppToken
+
 crime_data = "ijzp-q8t2"
-MyAppToken = 'GuILMuJLLhVOQ8u9cyXPc56p3'
 client = Socrata("data.cityofchicago.org", MyAppToken)
 
 #checking the day of the month and printing the result, this is used to filter the dataframe later
