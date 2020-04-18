@@ -80,12 +80,13 @@ def getData():
     aggs_by_date_type.columns = ["date", "month_day", "primary_type", "crimes_committed"]
     aggs_by_date_type = aggs_by_date_type.set_index(pd.DatetimeIndex(aggs_by_date_type['date']))
     aggs_by_date_type = aggs_by_date_type.drop(['date'], axis=1)
+    aggs_by_date_type.to_csv('static/data/final_Chicago_data_total_crime_by_date_and_type.csv')
 
     grouped_month_day = final_df.groupby(['month_day', 'year','domestic']).count()
     grouped_month_day = grouped_month_day.drop(columns = ['date','day','month'])
     grouped_month_day = grouped_month_day.rename(columns={"primary_type": "month_total_crimes"})
     grouped_month_day.reset_index(inplace=True)
-    grouped_month_day.to_csv('static\data\grouped_month_day.csv', index=False)
+    grouped_month_day.to_csv('static/data/grouped_month_day.csv', index=False)
 
     ############################################################
     #creating database from all dataframes created in chicago.py
